@@ -149,7 +149,7 @@ const CodeEditor = ({questionData}) => {
 
   const handleRunCode = async () => {
     try {
-      const response = await axios.post('http://localhost:5000/piston/execute', {
+      const response = await axios.post('https://leetcode-clone-a0ts.onrender.com/piston/execute', {
         language: language,
         code: code,
         stdin: stdin
