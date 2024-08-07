@@ -1,0 +1,422 @@
+{
+    "allQuestionsCount": [
+        {
+            "difficulty": "All",
+            "count": 3236
+        },
+        {
+            "difficulty": "Easy",
+            "count": 814
+        },
+        {
+            "difficulty": "Medium",
+            "count": 1699
+        },
+        {
+            "difficulty": "Hard",
+            "count": 723
+        }
+    ],
+    "matchedUser": {
+        "username": "dileepverma107",
+        "profile": {
+            "realName": "",
+            "userAvatar": "https://assets.leetcode.com/users/dileepverma107/avatar_1711819606.png",
+            "ranking": 957614,
+            "reputation": 0,
+            "solutionCount": 7,
+            "contestCount": 0,
+            "postViewCount": 137,
+            "categoryDiscussCount": 0
+        },
+        "submissionCalendar": "{\"1707609600\": 2, \"1707696000\": 2, \"1707782400\": 3, \"1707868800\": 2, \"1708905600\": 6, \"1708992000\": 5, \"1709596800\": 3, \"1709683200\": 1, \"1709942400\": 2, \"1710201600\": 1, \"1710460800\": 2, \"1710547200\": 2, \"1710633600\": 2, \"1710720000\": 2, \"1710806400\": 1, \"1710979200\": 1, \"1711756800\": 1, \"1711929600\": 2, \"1712016000\": 2, \"1712448000\": 2, \"1712620800\": 3, \"1712793600\": 3, \"1713052800\": 4, \"1713225600\": 1, \"1713657600\": 1, \"1714435200\": 5, \"1714521600\": 1, \"1715472000\": 2, \"1715558400\": 4, \"1716681600\": 6, \"1716940800\": 1, \"1717027200\": 1, \"1717372800\": 1, \"1717459200\": 1, \"1717891200\": 2, \"1717977600\": 3, \"1718236800\": 1, \"1719014400\": 1, \"1719187200\": 11, \"1719360000\": 3, \"1719446400\": 3, \"1719619200\": 1, \"1719705600\": 4, \"1719792000\": 3, \"1719878400\": 5, \"1719964800\": 19, \"1720051200\": 4, \"1720310400\": 6, \"1720569600\": 13, \"1720656000\": 6, \"1720828800\": 2, \"1720915200\": 1, \"1721001600\": 6, \"1721088000\": 19, \"1721260800\": 6, \"1721433600\": 11, \"1721520000\": 2, \"1721692800\": 3, \"1721779200\": 2, \"1721865600\": 1, \"1721952000\": 5, \"1722124800\": 2, \"1722211200\": 1, \"1691798400\": 10, \"1691884800\": 3, \"1692057600\": 1}",
+        "submitStats": {
+            "acSubmissionNum": [
+                {
+                    "difficulty": "All",
+                    "count": 96,
+                    "submissions": 153
+                },
+                {
+                    "difficulty": "Easy",
+                    "count": 47,
+                    "submissions": 85
+                },
+                {
+                    "difficulty": "Medium",
+                    "count": 44,
+                    "submissions": 59
+                },
+                {
+                    "difficulty": "Hard",
+                    "count": 5,
+                    "submissions": 9
+                }
+            ],
+            "totalSubmissionNum": [
+                {
+                    "difficulty": "All",
+                    "count": 105,
+                    "submissions": 287
+                },
+                {
+                    "difficulty": "Easy",
+                    "count": 49,
+                    "submissions": 137
+                },
+                {
+                    "difficulty": "Medium",
+                    "count": 51,
+                    "submissions": 138
+                },
+                {
+                    "difficulty": "Hard",
+                    "count": 5,
+                    "submissions": 12
+                }
+            ]
+        },
+        "badges": [
+            {
+                "displayName": "50 Days Badge 2024",
+                "icon": "https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png"
+            }
+        ],
+        "languageProblemCount": [
+            {
+                "languageName": "Java",
+                "problemsSolved": 95
+            },
+            {
+                "languageName": "MySQL",
+                "problemsSolved": 1
+            }
+        ],
+        "tagProblemCounts": {
+            "advanced": [
+                {
+                    "tagName": "Backtracking",
+                    "tagSlug": "backtracking",
+                    "problemsSolved": 1
+                },
+                {
+                    "tagName": "Dynamic Programming",
+                    "tagSlug": "dynamic-programming",
+                    "problemsSolved": 9
+                },
+                {
+                    "tagName": "Divide and Conquer",
+                    "tagSlug": "divide-and-conquer",
+                    "problemsSolved": 6
+                },
+                {
+                    "tagName": "Trie",
+                    "tagSlug": "trie",
+                    "problemsSolved": 1
+                },
+                {
+                    "tagName": "Union Find",
+                    "tagSlug": "union-find",
+                    "problemsSolved": 4
+                },
+                {
+                    "tagName": "Binary Indexed Tree",
+                    "tagSlug": "binary-indexed-tree",
+                    "problemsSolved": 1
+                },
+                {
+                    "tagName": "Segment Tree",
+                    "tagSlug": "segment-tree",
+                    "problemsSolved": 1
+                },
+                {
+                    "tagName": "Monotonic Stack",
+                    "tagSlug": "monotonic-stack",
+                    "problemsSolved": 2
+                }
+            ],
+            "intermediate": [
+                {
+                    "tagName": "Hash Table",
+                    "tagSlug": "hash-table",
+                    "problemsSolved": 20
+                },
+                {
+                    "tagName": "Ordered Set",
+                    "tagSlug": "ordered-set",
+                    "problemsSolved": 1
+                },
+                {
+                    "tagName": "Graph",
+                    "tagSlug": "graph",
+                    "problemsSolved": 1
+                },
+                {
+                    "tagName": "Greedy",
+                    "tagSlug": "greedy",
+                    "problemsSolved": 4
+                },
+                {
+                    "tagName": "Binary Search",
+                    "tagSlug": "binary-search",
+                    "problemsSolved": 15
+                },
+                {
+                    "tagName": "Depth-First Search",
+                    "tagSlug": "depth-first-search",
+                    "problemsSolved": 4
+                },
+                {
+                    "tagName": "Breadth-First Search",
+                    "tagSlug": "breadth-first-search",
+                    "problemsSolved": 5
+                },
+                {
+                    "tagName": "Recursion",
+                    "tagSlug": "recursion",
+                    "problemsSolved": 9
+                },
+                {
+                    "tagName": "Sliding Window",
+                    "tagSlug": "sliding-window",
+                    "problemsSolved": 2
+                },
+                {
+                    "tagName": "Bit Manipulation",
+                    "tagSlug": "bit-manipulation",
+                    "problemsSolved": 5
+                },
+                {
+                    "tagName": "Math",
+                    "tagSlug": "math",
+                    "problemsSolved": 15
+                },
+                {
+                    "tagName": "Database",
+                    "tagSlug": "database",
+                    "problemsSolved": 1
+                }
+            ],
+            "fundamental": [
+                {
+                    "tagName": "Array",
+                    "tagSlug": "array",
+                    "problemsSolved": 45
+                },
+                {
+                    "tagName": "Matrix",
+                    "tagSlug": "matrix",
+                    "problemsSolved": 5
+                },
+                {
+                    "tagName": "String",
+                    "tagSlug": "string",
+                    "problemsSolved": 24
+                },
+                {
+                    "tagName": "Simulation",
+                    "tagSlug": "simulation",
+                    "problemsSolved": 2
+                },
+                {
+                    "tagName": "Sorting",
+                    "tagSlug": "sorting",
+                    "problemsSolved": 10
+                },
+                {
+                    "tagName": "Stack",
+                    "tagSlug": "stack",
+                    "problemsSolved": 6
+                },
+                {
+                    "tagName": "Queue",
+                    "tagSlug": "queue",
+                    "problemsSolved": 1
+                },
+                {
+                    "tagName": "Linked List",
+                    "tagSlug": "linked-list",
+                    "problemsSolved": 17
+                },
+                {
+                    "tagName": "Two Pointers",
+                    "tagSlug": "two-pointers",
+                    "problemsSolved": 27
+                }
+            ]
+        },
+        "userCalendar": {
+            "activeYears": [
+                2021,
+                2022,
+                2023,
+                2024
+            ],
+            "streak": 6,
+            "totalActiveDays": 66,
+            "submissionCalendar": "{\"1707609600\": 2, \"1707696000\": 2, \"1707782400\": 3, \"1707868800\": 2, \"1708905600\": 6, \"1708992000\": 5, \"1709596800\": 3, \"1709683200\": 1, \"1709942400\": 2, \"1710201600\": 1, \"1710460800\": 2, \"1710547200\": 2, \"1710633600\": 2, \"1710720000\": 2, \"1710806400\": 1, \"1710979200\": 1, \"1711756800\": 1, \"1711929600\": 2, \"1712016000\": 2, \"1712448000\": 2, \"1712620800\": 3, \"1712793600\": 3, \"1713052800\": 4, \"1713225600\": 1, \"1713657600\": 1, \"1714435200\": 5, \"1714521600\": 1, \"1715472000\": 2, \"1715558400\": 4, \"1716681600\": 6, \"1716940800\": 1, \"1717027200\": 1, \"1717372800\": 1, \"1717459200\": 1, \"1717891200\": 2, \"1717977600\": 3, \"1718236800\": 1, \"1719014400\": 1, \"1719187200\": 11, \"1719360000\": 3, \"1719446400\": 3, \"1719619200\": 1, \"1719705600\": 4, \"1719792000\": 3, \"1719878400\": 5, \"1719964800\": 19, \"1720051200\": 4, \"1720310400\": 6, \"1720569600\": 13, \"1720656000\": 6, \"1720828800\": 2, \"1720915200\": 1, \"1721001600\": 6, \"1721088000\": 19, \"1721260800\": 6, \"1721433600\": 11, \"1721520000\": 2, \"1721692800\": 3, \"1721779200\": 2, \"1721865600\": 1, \"1721952000\": 5, \"1722124800\": 2, \"1722211200\": 1, \"1691798400\": 10, \"1691884800\": 3, \"1692057600\": 1}"
+        }
+    },
+    "recentAcSubmissionList": [
+            {
+                "id": "1337028538",
+                "title": "Climbing Stairs",
+                "titleSlug": "climbing-stairs",
+                "timestamp": "1722239764",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1336474171",
+                "title": "Longest Substring Without Repeating Characters",
+                "titleSlug": "longest-substring-without-repeating-characters",
+                "timestamp": "1722187303",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1336335449",
+                "title": "Split Array Largest Sum",
+                "titleSlug": "split-array-largest-sum",
+                "timestamp": "1722178225",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1333792578",
+                "title": "Pow(x, n)",
+                "titleSlug": "powx-n",
+                "timestamp": "1721974929",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1333775057",
+                "title": "String to Integer (atoi)",
+                "titleSlug": "string-to-integer-atoi",
+                "timestamp": "1721973800",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1333635625",
+                "title": "Is Subsequence",
+                "titleSlug": "is-subsequence",
+                "timestamp": "1721962214",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1331699657",
+                "title": "Kth Missing Positive Number",
+                "titleSlug": "kth-missing-positive-number",
+                "timestamp": "1721817199",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1331579895",
+                "title": "Find the Smallest Divisor Given a Threshold",
+                "titleSlug": "find-the-smallest-divisor-given-a-threshold",
+                "timestamp": "1721808879",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1330313098",
+                "title": "Append Characters to String to Make Subsequence",
+                "titleSlug": "append-characters-to-string-to-make-subsequence",
+                "timestamp": "1721715088",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1328466484",
+                "title": "Reverse Pairs",
+                "titleSlug": "reverse-pairs",
+                "timestamp": "1721567876",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1328387707",
+                "title": "Find First and Last Position of Element in Sorted Array",
+                "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+                "timestamp": "1721561979",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1327353069",
+                "title": "Search Insert Position",
+                "titleSlug": "search-insert-position",
+                "timestamp": "1721486542",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1327169247",
+                "title": "Single Element in a Sorted Array",
+                "titleSlug": "single-element-in-a-sorted-array",
+                "timestamp": "1721474209",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1327015803",
+                "title": "Find Minimum in Rotated Sorted Array",
+                "titleSlug": "find-minimum-in-rotated-sorted-array",
+                "timestamp": "1721462243",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1325304565",
+                "title": "Reverse Pairs",
+                "titleSlug": "reverse-pairs",
+                "timestamp": "1721314937",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1325121879",
+                "title": "Merge Sorted Array",
+                "titleSlug": "merge-sorted-array",
+                "timestamp": "1721302600",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1324876169",
+                "title": "Valid Palindrome",
+                "titleSlug": "valid-palindrome",
+                "timestamp": "1721283615",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1322671130",
+                "title": "Reverse Integer",
+                "titleSlug": "reverse-integer",
+                "timestamp": "1721116235",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1321816786",
+                "title": "Majority Element",
+                "titleSlug": "majority-element",
+                "timestamp": "1721049655",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            },
+            {
+                "id": "1321640978",
+                "title": "Two Sum",
+                "titleSlug": "two-sum",
+                "timestamp": "1721036664",
+                "lang": "java",
+                "statusDisplay": "Accepted"
+            }
+        ]
+}

@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode a {
+  color: #4da3ff;
+}
+
+.dark-mode pre {
+  background-color: #2d2d2d;
+  color: #fff;
+}
+
+.dark-mode code {
+  background-color: #444;
+  color: #fff;
+}
