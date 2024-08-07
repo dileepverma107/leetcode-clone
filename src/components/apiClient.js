@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-  baseURL: 'https://prime-code-rouge.vercel.app/graphql', // Your backend proxy server URL
+  baseURL: 'https://leetcode-clone-a0ts.onrender.com/graphql', // Your backend proxy server URL
   headers: {
     'Content-Type': 'application/json',
   }
